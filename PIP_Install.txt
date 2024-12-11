@@ -1,1 +1,0 @@
-pip install click torch tqdm torchvision pandas albumentations opencv-python numpy matplotlib
